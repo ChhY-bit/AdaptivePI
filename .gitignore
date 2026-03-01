@@ -1,4 +1,4 @@
-/======================================.ps
-/PID_design.asv
-/simul.slx.autosave
-/slprj
+*.ps
+*.asv
+*.autosave
+slprj/
