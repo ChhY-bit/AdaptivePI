@@ -19,6 +19,7 @@ AdaptivePID/
 │   ├── First_Order_System.png      # 图片形式
 │   ├── Second_Order_System.md      # 关于二阶系统的扩展，作为参考
 │   └── Second_Order_System.png     # 图片形式
+│   └── Example.jpg                 # 自适应PI控制器示例效果图
 │
 ├── results/                    # 仿真结果数据
 │   ├── 1_Results_IdealPI.mat       # 理想PI控制器仿真数据
