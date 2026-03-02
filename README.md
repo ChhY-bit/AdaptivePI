@@ -16,7 +16,9 @@
 AdaptivePID/
 ├── documents/                  # 技术文档目录
 │   ├── First_Order_System.md       # 技术文档：通过详尽的理论阐明原理与方法
-│   └── Second_Order_System.md      # 补充：关于二阶系统的扩展，作为参考
+│   ├── First_Order_System.png      # 图片形式
+│   ├── Second_Order_System.md      # 关于二阶系统的扩展，作为参考
+│   └── Second_Order_System.png     # 图片形式
 │
 ├── results/                    # 仿真结果数据
 │   ├── 1_Results_IdealPI.mat       # 理想PI控制器仿真数据
